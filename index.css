@@ -192,6 +192,12 @@ h1 {
   font-family:SilentFont;
 }
 
+h4 {
+  color: red;
+  font-family:SilentFont;
+}
+
+
 .objeto {
 	font-family:Palatino;
     font-size: large;
@@ -250,3 +256,27 @@ model-viewer{
 	height: 50%;
 	margin: 0 auto;
 }
+
+.modal-header {
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #969696;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+ }
+ 
+ .modal-body{
+	  background-color: #000000;
+	 
+	 
+ }
+ 
+ .modal-footer{
+	  background-color: #000000;
+	 
+	 
+ }
